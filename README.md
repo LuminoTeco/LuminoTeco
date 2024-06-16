@@ -37,6 +37,8 @@
 ###
 
 <div align="center">
+  <br>
+  <h2>Fundadores</h2>
   <img src="./teco-fundadores.png"/>
 </div>
 
